@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'nobileitalic';
+ src: url('nobile-italic-webfont.woff2') format('woff2'),
+      url('nobile-italic-webfont.woff') format('woff');
+ font-weight: normal;
+ font-style: normal;
+
+}
+body{
+ font-family: 'nobileitalic';
+}
