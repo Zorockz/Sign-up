@@ -1,1 +1,1 @@
-Project creating Sign-up
+This is a clean and responsive sign-up form built with HTML and CSS. It features a sidebar with a background image, structured input fields, and a full-width submit button. Password fields highlight red when focused.Did not add JS
